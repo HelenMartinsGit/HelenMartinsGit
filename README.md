@@ -3,7 +3,7 @@
 
 🔭 Análise e Desenvolvimento de Sistemas | Suporte Técnico de Redes
 🌱 PÍTON
-😄 Pronomes: ela/dela
+😄 Pronomes: ela/dela 
 ⚡ Curiosidade: Garota Gamer CS-2 - FaHelleN
 
 <div style="display: inline_block"><br>
