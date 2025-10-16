@@ -1,7 +1,7 @@
 ## Helen Martins 👩🏻‍💻 
 **`Analista de Dados`**
 
-🔭 Análise e Desenvolvimento de Sistemas | MBA em Segurança da Informação
+🔭 Análise e Desenvolvimento de Sistemas | MBA em Segurança da Informação 🔐
 🛡️ CyberSecurity
 🌱 PÍTON 
 
