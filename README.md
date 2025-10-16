@@ -2,8 +2,8 @@
 **`Analista de Dados`**
 
 🔭 Análise e Desenvolvimento de Sistemas | MBA em Segurança da Informação
-
-🌱 PÍTON
+🛡️ CyberSecurity
+🌱 PÍTON 
 
 😄 Pronomes: ela/dela 
 
